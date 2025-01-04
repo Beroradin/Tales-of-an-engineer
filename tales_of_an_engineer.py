@@ -294,7 +294,7 @@ def player_status():
     print("Teoria: " + str(myPlayer.theory))
     print("Resiliência: " + str(myPlayer.resiliency))
     print("Prática: " + str(myPlayer.practice))
-    print("Seus itens são:")
+    print("Seus itens e gold são:")
     print("Ouro: " + str(myPlayer.gold))
     print("Pastéis: " + str(myPlayer.food))
     print("Cafés: " + str(myPlayer.drink))
